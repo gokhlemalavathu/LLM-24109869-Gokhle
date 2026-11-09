@@ -1,0 +1,17 @@
+# Versions read from the Colab runtime (Python 3.13) that produced the saved outputs.
+# System package: poppler-utils (pdftotext 24.02.0), installed by the first notebook cell.
+blinker==1.9.0
+dacite==1.9.2
+faiss-cpu==1.15.1
+google-genai==2.12.1
+matplotlib==3.10.0
+numpy==2.4.6
+pandas==2.2.3
+pyarrow==23.0.1
+python-box==8.0.0
+retrying==1.4.2
+semantic-text-splitter==0.33.1
+sentence-transformers==5.7.0
+tokenizers==0.23.3
+torch==2.14.1
+transformers==5.22.1
